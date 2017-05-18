@@ -1,7 +1,28 @@
 .header {
-  color: #4CAF50;
-  display: flex;
+  background-color: #333;
   overflow: hidden;
+  justify-content: center;
+}
+
+.header a {
+  float: ;
+  display: flex;
+  flex-wrap: wrap;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.header a:hover {
+  background-color: #DDD;
+  color: black;
+}
+
+.header a:active {
+  background-color: #4CAF50;
+  color: white;
 }
 
 #logo {
