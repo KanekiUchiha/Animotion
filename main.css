@@ -5,7 +5,7 @@
 }
 
 .header a {
-  float: ;
+  float: left;
   display: flex;
   flex-wrap: wrap;
   color: #F2F2F2;
