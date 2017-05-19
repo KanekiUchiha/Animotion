@@ -7,7 +7,7 @@
 
 .header a {
   /*float: left;*/
-  display: flex;
+  display: inline-block;
   text-align: center;
   padding-left: 5rem;
   padding-right: 5rem;
