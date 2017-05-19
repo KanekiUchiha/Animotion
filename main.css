@@ -6,6 +6,10 @@
   text-align: center;
   padding: 2rem;
 }
+#category {
+  font-family: 'Covered By Your Grace', sans-serif;
+  justify-content: left;
+}
 
 .header a {
   /*float: left;*/
