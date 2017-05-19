@@ -9,10 +9,7 @@
   /*float: left;*/
   text-align: center;
   display: inline-block;
-  padding-left: 4rem;
-  padding-right: 4rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding: 16px 14px;
   justify-content: center;
   color: #F2F2F2;
   text-decoration: none;
