@@ -3,19 +3,19 @@
 .header {
   background-color: #333;
   overflow: hidden;
-  text-align: center;
-  padding: 2rem;
 }
 #category {
 }
 
 .header a {
   /*float: left;*/
+  text-align: center;
+  padding: 2rem;
   justify-content: center;
   color: #F2F2F2;
   text-decoration: none;
   font-size: 2rem;
-}g
+}
 
 .header a:hover {
   background-color: #DDD;
