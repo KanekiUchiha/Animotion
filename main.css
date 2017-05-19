@@ -2,6 +2,7 @@
 
 .header {
   background-color: #333;
+  padding: 4rem;
   overflow: hidden;
   text-align: center;
 }
@@ -11,7 +12,7 @@
   justify-content: center;*/
   color: #F2F2F2;
   /*text-align: center;*/
-  padding: 10rem;
+  padding: 2rem;
   text-decoration: none;
   font-size: 20px;
 }
