@@ -9,7 +9,7 @@
 
 .header a {
   /*float: left;*/
-  display: block;
+  display: inline;
   text-align: center;
   padding: 2rem;
   justify-content: center;
