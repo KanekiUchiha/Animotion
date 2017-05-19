@@ -3,13 +3,12 @@
 .header {
   background-color: #333;
   overflow: hidden;
+  text-align: center;
 }
 
 .header a {
   /*float: left;*/
-  text-align: center;
   padding: 2rem 4rem;
-  
   justify-content: center;
   color: #F2F2F2;
   text-decoration: none;
