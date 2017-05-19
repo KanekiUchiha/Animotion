@@ -3,6 +3,9 @@
 .header {
   background-color: #333;
   overflow: hidden;
+  position: fixed;
+    top: 0px;
+    width: 100%;
 }
 
 .header a {
