@@ -7,11 +7,10 @@
 }
 
 .header a {
-  /*float: left;
-  justify-content: center;*/
+  /*float: left;*/
+  justify-content: center;
   color: #F2F2F2;
   padding: 4rem 4rem;
-  text-align: center;
   text-decoration: none;
   font-size: 20px;
 }g
