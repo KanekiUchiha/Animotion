@@ -9,7 +9,10 @@
 .header a {
   /*float: left;*/
   display: inline-block;
-  padding: 5rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   justify-content: center;
   color: #F2F2F2;
   text-decoration: none;
