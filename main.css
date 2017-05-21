@@ -4,6 +4,7 @@
 * {
   
 }
+
 html {
   background: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -11,6 +12,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
 .header {
   background-color: #333;
   overflow: hidden;
@@ -40,13 +42,27 @@ html {
   color: white;
 }
 
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #F9F9F9;
+  padding: 1rem;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 #logo {
   font-family: 'Covered By Your Grace', Arial, sans-serif;
 }
 
 body {
-  /*background: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg") center cover no-repeat;
-  height: 100%;*/
   font-family: Roboto, Arial, sans-serif;
   overflow: scroll;
 }
