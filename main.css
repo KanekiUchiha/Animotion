@@ -24,7 +24,6 @@ html {
   position: relative;
   text-align: center;
   width: 100%;
-  border-style: solid;
   z-index: 1;
 }
 
@@ -61,8 +60,8 @@ html {
   z-index: 2;
 }
 
-.dropdown:active .dropdown-content {
-  display: block;
+.dropdown:hover .dropdown-content {
+  display: inline-block;
 }
 
 #logo {
