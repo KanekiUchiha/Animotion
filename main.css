@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
 
 .header {
   background-color: #333;
@@ -32,4 +37,6 @@
 
 body {
   background-image: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
