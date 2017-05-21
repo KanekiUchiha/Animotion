@@ -8,6 +8,7 @@
 .header {
   background-color: #333;
   overflow: hidden;
+  position: fixed;
   text-align: center;
   width: 100%;
 }
@@ -40,4 +41,5 @@ body {
   background-image: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg");
   background-repeat: no-repeat;
   font-family: Roboto, Arial, sans-serif;
+  overflow: scroll;
 }
