@@ -52,6 +52,7 @@ html {
   position: absolute;
   background-color: #F9F9F9;
   padding: 1rem;
+  z-index: 1;
 }
 
 .dropdown:hover .dropdown-content {
