@@ -58,7 +58,7 @@ html {
 }
 
 #seasons:hover .seasons-content {
-  display: inline-block;
+  display: block;
 }
 
 #logo {
