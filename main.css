@@ -16,7 +16,7 @@ html {
 .header {
   background-color: #333;
   overflow: hidden;
-  position: fixed;
+  position: relative;
   text-align: center;
   width: 100%;
   border-style: solid:
