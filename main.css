@@ -38,7 +38,7 @@
 }
 
 body {
-  background: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg") 100% no-repeat center center;
+  background: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg") fixed no-repeat center center;
   font-family: Roboto, Arial, sans-serif;
   overflow: scroll;
 }
