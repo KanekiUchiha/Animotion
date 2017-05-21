@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 * {
-  font-family: 'Roboto', sans-serif;
+  
 }
 
 .header {
@@ -19,6 +19,7 @@
   color: #F2F2F2;
   text-decoration: none;
   font-size: 2rem;
+  font-family: 'Segoe UI', Arial, sans-serif;
 }
 
 .header a:hover {
@@ -32,11 +33,12 @@
 }
 
 #logo {
-  font-family: 'Covered By Your Grace', sans-serif;
+  font-family: 'Covered By Your Grace', Arial, sans-serif;
 }
 
 body {
   background-image: url("http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  font-family: Roboto, Arial, sans-serif;
 }
