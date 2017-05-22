@@ -10,7 +10,7 @@ body {
   overflow: scroll;
   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/65/b1/09/65b109eb083e03348c52c11495f666ff.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 .header {
