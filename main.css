@@ -9,8 +9,7 @@ body {
   font-family: Roboto, Arial, sans-serif;
   overflow: scroll;
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjn93DKWbN69yzkMbtXxD1r8jYvXRHn6qv-BGiVaiCUrgp9twz);
-  background-repeat: repeat-x; 
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
 }
 
 .header {
