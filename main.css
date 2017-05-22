@@ -16,7 +16,6 @@ html {
 
 body {
   font-family: Roboto, Arial, sans-serif;
-  overflow: scroll;
 }
 
 .header {
@@ -59,6 +58,8 @@ body {
   display: none;
   position: absolute;
   background-color: #F9F9F9;
+  min-width: 100%;
+  overflow: auto;
   padding: 1rem;
   z-index: 1;
 }
