@@ -10,7 +10,7 @@ body {
   overflow: scroll;
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv85k9I24dYk_b8WlmLyGtzY5_9mQriyEkFE-ErCu4jeBXGr6V);
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 .header {
