@@ -5,12 +5,18 @@
   
 }
 
+html {
+  background: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed;
+  /*ALTERNATE: background-image: url(http://allswalls.com/images/anime-scenery-wallpaper-1.jpg);*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
   font-family: Roboto, Arial, sans-serif;
   overflow: scroll;
-  background-image: url(http://allswalls.com/images/anime-scenery-wallpaper-1.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .header {
