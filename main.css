@@ -26,6 +26,7 @@ html {
   text-align: center;
   width: 100%;
   z-index: 1;
+  margin: 0rem 0rem; 
 }
 
 .header a {
