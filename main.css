@@ -9,14 +9,7 @@ body {
   font-family: Roboto, Arial, sans-serif;
   overflow: scroll;
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjn93DKWbN69yzkMbtXxD1r8jYvXRHn6qv-BGiVaiCUrgp9twz);
-}
-
-html {
-  background-image: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-repeat: repeat-x; 
 }
 
 .header {
