@@ -19,7 +19,7 @@ body {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  text-align: center;
+  text-align: center; 
   margin: 0rem 0rem; 
   width: 100%;
   z-index: 1;
