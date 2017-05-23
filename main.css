@@ -29,7 +29,7 @@ body {
 .header a {
   /*float: left;*/
   padding: 2rem 4rem;
-  /*justify-content: center;*/
+  justify-content: center;
   text-align: center;
   color: #F2F2F2;
   text-decoration: none;
