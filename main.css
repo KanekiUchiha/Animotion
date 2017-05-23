@@ -61,6 +61,7 @@ body {
   display: none;
   position: absolute;
   overflow: auto;
+  min-width: 100%;
   background-color: #232323;
   z-index: 1;
 }
