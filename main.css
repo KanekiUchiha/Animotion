@@ -9,44 +9,6 @@
   font-size: 150%; 
 }
 
-h1 {
-  text-align: center; 
-  font-size: 8rem;
-  padding: 1rem 1rem;
-  -webkit-animation: fadein 2s; 
-  -moz-animation: fadein 2s; 
-  -ms-animation: fadein 2s; 
-  -o-animation: fadein 2s; 
-  animation: fadein 2s;
-}
-
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-moz-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-ms-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-o-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-}
-
-
 html {
   background: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed;
   /*ALTERNATE: background-image: url(http://allswalls.com/images/anime-scenery-wallpaper-1.jpg);*/
@@ -131,4 +93,41 @@ input[type=text] {
   background: white url('searchicon.png') 10px 10px no-repeat;
   -webkit-transition: width 0.4s ease-in-out;
   transition: width 0.4s ease-in-out;
+}
+
+h1 {
+  text-align: center; 
+  font-size: 8rem;
+  padding: 1rem 1rem;
+  -webkit-animation: fadein 2s; 
+  -moz-animation: fadein 2s; 
+  -ms-animation: fadein 2s; 
+  -o-animation: fadein 2s; 
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
 }
