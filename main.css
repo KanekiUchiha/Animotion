@@ -11,6 +11,11 @@ h1 {
   padding: 1rem 1rem
 }
 
+page-info p {
+  text-align: center; 
+  font-size: 150%; 
+}
+
 html {
   background: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed;
   /*ALTERNATE: background-image: url(http://allswalls.com/images/anime-scenery-wallpaper-1.jpg);*/
@@ -18,6 +23,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  opacity: 0.7;
 }
 
 body {
@@ -61,18 +67,12 @@ body {
   display: none;
   position: absolute;
   overflow: auto;
-  min-width: 100%;
-  background-color: #232323;
+  background-color: #333;
   z-index: 1;
 }
 
 .seasons-content a {
   padding: 0rem;
-}
-
-.seasons-content a:hover {
-  background-color: #232323;
-  color: #4CAF50;
 }
 
 .seasons:hover .seasons-content {
