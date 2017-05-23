@@ -8,38 +8,7 @@
 h1 {
   text-align: center; 
   font-size: 8rem;
-  padding: 1rem 1rem;
-  -webkit-animation: fadein 4s; 
-  -moz-animation: fadein 4s; 
-  -ms-animation: fadein 4s; 
-  -o-animation: fadein 4s; 
-  animation: fadein 4s;
-}
-
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-moz-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-ms-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-o-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
+  padding: 1rem 1rem
 }
 
 #website-description {
@@ -121,4 +90,14 @@ body {
 
 .page-info {
   position: relative;
+}
+
+input[type=text] {
+  width: 10rem;
+  box-sizing: border-box;
+  border: 3px solid #CCC;
+  border-radius: 3px;
+  background: white url('searchicon.png') 10px 10px no-repeat;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
 }
