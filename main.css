@@ -20,7 +20,6 @@ body {
 
 .header {
   background-color: #333;
-  position: relative;
   overflow: hidden;
   display: inline-block;
   text-align: center; 
@@ -51,7 +50,7 @@ body {
 
 .seasons-content {
   display: none;
-  position: relative;
+  position: absolute;
   background-color: #F9F9F9;
   min-width: 100%;
   overflow: auto;
