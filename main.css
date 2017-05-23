@@ -61,12 +61,17 @@ body {
   display: none;
   position: absolute;
   overflow: auto;
-  background-color: #333;
+  background-color: #232323;
   z-index: 1;
 }
 
 .seasons-content a {
   padding: 0rem;
+}
+
+.seasons-content a:hover {
+  background-color: #232323;
+  color: #4CAF50;
 }
 
 .seasons:hover .seasons-content {
