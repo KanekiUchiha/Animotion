@@ -20,11 +20,11 @@ body {
 
 .header {
   background-color: #333;
-  overflow: hidden;
   display: inline-block;
   justify-content: space-around;
   text-align: center;
-  margin: 0px; 
+  margin: 0px;
+  width: 100%;
 }
 
 .header a {
@@ -44,6 +44,11 @@ body {
 .header a:active {
   background-color: #4CAF50;
   color: white;
+}
+
+.seasons {
+  position: relative;
+  display: inline-block;
 }
 
 .seasons-content {
