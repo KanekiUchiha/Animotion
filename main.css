@@ -59,6 +59,10 @@ body {
   z-index: 1;
 }
 
+.seasons-content a {
+  padding: 0rem;
+}
+
 .seasons:hover .seasons-content {
   display: block;
 }
