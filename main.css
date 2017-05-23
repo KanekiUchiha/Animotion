@@ -10,13 +10,15 @@
 }
 
 a.login-btn {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-    text-decoration: none;
-    color: initial;
-    font-family: arial; 
-    padding: 1rem 3rem;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  color: initial;
+  font-family: arial; 
+  padding: 1rem 3rem;
+  position: relative;
+  left: 43rem;
 }
 
 html {
