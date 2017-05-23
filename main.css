@@ -16,6 +16,7 @@ a.login-btn {
     text-decoration: none;
     color: initial;
     font-family: arial; 
+    padding: 3rem 3rem;
     height: 1.5rem;
     width: 2.5rem;
 }
