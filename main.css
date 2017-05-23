@@ -23,6 +23,7 @@ body {
   overflow: hidden;
   display: inline-block;
   justify-content: space-around;
+  text-align: center;
   margin: 0px; 
   width: 100%;
 }
@@ -30,7 +31,6 @@ body {
 .header a {
   /*float: left;*/
   padding: 2rem 4rem;
-  text-align: center;
   color: #F2F2F2;
   text-decoration: none;
   font-size: 2rem;
