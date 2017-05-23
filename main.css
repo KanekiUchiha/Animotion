@@ -9,6 +9,15 @@
   font-size: 150%; 
 }
 
+a.login-btn {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
 html {
   background: url(http://eskipaper.com/images/anime-scenery-wallpapers-1.jpg) no-repeat center center fixed;
   /*ALTERNATE: background-image: url(http://allswalls.com/images/anime-scenery-wallpaper-1.jpg);*/
