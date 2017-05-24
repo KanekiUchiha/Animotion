@@ -21,13 +21,13 @@
 
 .login {
   text-align: right;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .signup {
   position: relative;
   bottom: 18rem;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 a.login-btn {
