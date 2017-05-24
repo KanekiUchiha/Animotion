@@ -150,6 +150,7 @@ body {
 .anime-content {
   width: 33.33%;
   padding: 1rem;
+  display: inline-block;
   box-sizing: border-box;
 }
 
