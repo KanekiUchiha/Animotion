@@ -33,35 +33,15 @@
   font-size: 1rem;
 }
 
-.sign-btn {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-  text-decoration: none;
-  color: initial;
-  font-family: arial; 
-  padding: 0.7rem 2rem;
-  font-size: 1rem;
-}
 
 #login {
   text-align: left;
   font-size: 230%;
 }
 
-#signup {
-  text-align: left;
-  font-size: 230%;
-}
 
 .login {
   text-align: right;
-  font-size: 1.5rem;
-}
-
-.signup {
-  position: relative;
-  bottom: 18.5rem;
   font-size: 1.5rem;
 }
 
