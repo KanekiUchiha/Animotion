@@ -7,6 +7,9 @@
 
 .season-imgs {
   display: inline;
+  padding: 1.5rem;
+  position: relative;
+  left: 4rem;
 }
 
 #website-description {
