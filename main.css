@@ -19,7 +19,7 @@
 
 .form-control {
   padding: 0.5rem 2rem;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .log-btn {
@@ -42,7 +42,7 @@
 
 .login {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 a.login-btn {
