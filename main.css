@@ -9,6 +9,17 @@
   font-size: 150%; 
 }
 
+#login {
+  text-align: left;
+  font-size: 230%;
+}
+
+#signup {
+  text-align: right;
+  top: 1rem; 
+  font-size: 230%;
+}
+
 a.login-btn {
   -webkit-appearance: button;
   -moz-appearance: button;
@@ -126,7 +137,6 @@ body {
 
 .anime-content {
   width: 33.33%;
-  padding: 1rem;
 }
 
 .img-container {
