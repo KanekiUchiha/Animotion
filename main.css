@@ -4,6 +4,11 @@
 * {
   
 }
+
+.season-imgs {
+  display: inline;
+}
+
 #website-description {
   text-align: center; 
   font-size: 150%; 
