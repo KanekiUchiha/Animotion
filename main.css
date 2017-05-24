@@ -23,6 +23,10 @@
   text-align: right;
 }
 
+.signup {
+  bottom: 100px;
+}
+
 a.login-btn {
   -webkit-appearance: button;
   -moz-appearance: button;
