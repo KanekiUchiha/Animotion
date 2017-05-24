@@ -19,6 +19,10 @@
   font-size: 230%;
 }
 
+.login-content {
+  display: inline;
+}
+
 a.login-btn {
   -webkit-appearance: button;
   -moz-appearance: button;
