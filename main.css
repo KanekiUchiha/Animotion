@@ -9,6 +9,14 @@
   font-size: 150%; 
 }
 
+#login {
+  text-align: right;
+}
+
+#signup {
+  text-align: left;
+}
+
 a.login-btn {
   -webkit-appearance: button;
   -moz-appearance: button;
