@@ -9,6 +9,26 @@
   font-size: 150%; 
 }
 
+.log-btn {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  color: initial;
+  font-family: arial; 
+  padding: 1rem 1.5rem;
+}
+
+.sign-btn {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  color: initial;
+  font-family: arial; 
+  padding: 1rem 1.5rem;
+}
+
 #login {
   text-align: left;
   font-size: 230%;
