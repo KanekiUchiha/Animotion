@@ -9,6 +9,10 @@
   font-size: 150%; 
 }
 
+#hcb {
+  background-color: white; 
+}
+
 #login {
   text-align: left;
   font-size: 230%;
